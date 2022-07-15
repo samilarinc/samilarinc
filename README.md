@@ -5,26 +5,26 @@
 
 <div align="center">
     <a href="https://github.com/samilarinc">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
+        <img src="logo-social-github.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.linkedin.com/in/samil-arinc">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
+        <img src="logo-social-linkedin.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.youtube.com/channel/UCN0oZpqN-IIXBKySwN7tK8Q">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
+        <img src="logo-social-youtube.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.instagram.com/samilarinc/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
+        <img src="logo-social-instagram.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.kaggle.com/amilarn">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-kaggle-small.png" width="3%"/>
+        <img src="logo-kaggle-small.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://samilarinc.blogspot.com/">
-        <img src="https://w7.pngwing.com/pngs/827/941/png-transparent-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text-trademark.png" width="3%"/>
+        <img src="logo-website.png" width="3%"/>
     </a>
 </div>
