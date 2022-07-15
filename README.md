@@ -1,4 +1,4 @@
-<b>Welcome to my profile! 
+<b>Welcome to my profile!<br>
 I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student at Bilkent University.<b>
 
 <p align="center">
