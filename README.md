@@ -25,6 +25,6 @@
     </a>
     <img width="3%" />
     <a href="https://samilarinc.blogspot.com/">
-        <img src="https://www.cds07.fr/wp-content/uploads/sites/7/2020/03/website-logo-png.png" width="3%"/>
+        <img src="https://w7.pngwing.com/pngs/827/941/png-transparent-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text-trademark.png" width="3%"/>
     </a>
 </div>
