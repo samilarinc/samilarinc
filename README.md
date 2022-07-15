@@ -19,4 +19,12 @@
     <a href="https://www.instagram.com/samilarinc/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
+    <img width="3%" />
+    <a href="https://www.kaggle.com/amilarn">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-kaggle-small.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://samilarinc.blogspot.com/">
+        <img src="https://www.cds07.fr/wp-content/uploads/sites/7/2020/03/website-logo-png.png" width="3%"/>
+    </a>
 </div>
