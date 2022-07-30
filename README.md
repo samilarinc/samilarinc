@@ -28,7 +28,7 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
         <img src="logo-kaggle-small.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://samilarinc.blogspot.com/">
+    <a href="https://samilarinc.github.io/">
         <img src="logo-website.png" width="3%"/>
     </a>
 </div>
