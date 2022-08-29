@@ -30,4 +30,8 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
     <a href="https://samilarinc.blogspot.com/">
         <img src="logo-website.png" width="3%"/>
     </a>
+    <img width="3%" />
+    <a href="https://stackoverflow.com/users/16569581/samilarinc">
+        <img src="logo-social-stackoverflow.png" width="3%"/>
+    </a>
 </div>
