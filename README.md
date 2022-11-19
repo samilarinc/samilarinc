@@ -8,9 +8,6 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
 </p>
 
 <div align="center">
-    <a href="https://github.com/samilarinc">
-        <img src="logo-social-github.png" width="3%"/>
-    </a>
     <img width="3%" />
     <a href="https://www.linkedin.com/in/samil-arinc">
         <img src="logo-social-linkedin.png" width="3%"/>
