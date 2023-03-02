@@ -12,26 +12,32 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
     <a href="https://www.linkedin.com/in/samil-arinc">
         <img src="logo-social-linkedin.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://www.youtube.com/channel/UCN0oZpqN-IIXBKySwN7tK8Q">
         <img src="logo-social-youtube.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://www.instagram.com/samilarinc/">
         <img src="logo-social-instagram.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://www.kaggle.com/amilarn">
         <img src="logo-kaggle-small.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://samilarinc.github.io/">
         <img src="logo-website.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://stackoverflow.com/users/16569581/samilarinc">
         <img src="logo-social-stackoverflow.png" width="3%"/>
     </a>
+    &nbsp;&nbsp;
     <img width="4%" />
     <a href="https://samilarinc.blogspot.com">
         <img src="logo-social-blogger.png" width="3%"/>
