@@ -4,7 +4,7 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=samilarinc&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=chartreuse-dark" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=samilarinc&theme=chartreuse-dark&hide_border=true&fire=DD2727"/> <br>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samilarinc&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samilarinc&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook,html&hide_border=true"/>
 </p>
 
 <div align="center">
