@@ -1,5 +1,5 @@
 <b>Welcome to my profile!<br>
-I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student at Bilkent University. I am involved in programming for over 8 years. I love coding with C, C++, and Python and I am experienced with them but I also worked with Java, MATLAB, and VHDL. I worked on both Deep Learning and Embedded Systems related jobs. <b>
+I am Muhammed Samil Arinc. I am embedded software candidate engineer at <a href="https://www.linkedin.com/company/akdogantech/about/" text-decoration="none" style="color:white">Akdogan Technology</a> and a senior Electrical and Electronics student at Bilkent University. I am involved in programming for over 8 years. I love coding with C, C++, and Python and I am experienced with them but I also worked with Java, MATLAB, and VHDL. I worked on both Deep Learning and Embedded Systems related jobs. <b>
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=samilarinc&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=chartreuse-dark" />
@@ -41,5 +41,10 @@ I am Muhammed Samil Arinc and I am a senior Electrical and Electronics student a
     <img width="4%" />
     <a href="https://samilarinc.blogspot.com">
         <img src="logo-social-blogger.png" width="3%"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img width="4%" />
+    <a href="https://drive.google.com/drive/folders/1fGFVWlicl0kFHnXnLA3vh9mIa0yzwy1I?usp=sharing">
+        <img src="logo-colab.png" width="3%"/>
     </a>
 </div>
