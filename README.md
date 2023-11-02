@@ -1,5 +1,7 @@
 <b>Welcome to my profile!<br>
-I am Muhammed Samil Arinc, an Electrical and Electronics graduate from Bilkent University, Turkey. I am involved in programming for over 9 years. I love coding with C, C++, Python and I am experienced with them but I also worked with CUDA, Java, MATLAB and VHDL. I worked on both Deep Learning and Embedded Systems related jobs. <br><br> Migrated to AWS CodeCommit due to privacy reasons. <b>
+I am Muhammed Samil Arinc, an Electrical and Electronics graduate from Bilkent University, Turkey. I am involved in programming for over 9 years. I love coding with C, C++, Python and I am experienced with them but I also worked with CUDA, Java, MATLAB and VHDL. I worked on both Deep Learning and Embedded Systems related jobs. <br><br> 
+If you are using one of my open-source projects and liking it, you may want to [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/samilarinc) to me 🙂.
+<br><br> Migrated to AWS CodeCommit due to privacy reasons. <b>
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=samilarinc&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=chartreuse-dark" />
